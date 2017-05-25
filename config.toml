@@ -1,8 +1,8 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://jtbucketlist.netlify.com/"
 languageCode = "en-us"
 title = "JT's Bucket List"
 theme = "introduction"
-enforce_ssl         = "your-url.com"
+enforce_ssl         = "jtbucketlist.netlify.com"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
