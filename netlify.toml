@@ -4,6 +4,6 @@
   command = "make"
 
 [context.production]
-  command = "hugo"
   [context.production.environment]
     HUGO_VERSION = "0.21"
+  command = "hugo"
