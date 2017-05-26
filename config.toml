@@ -1,4 +1,4 @@
-baseurl = "http://jtbucketlist.netlify.com/"
+baseurl = "http://bucketlist.netlify.com/"
 languageCode = "en-us"
 title = "JT's Bucket List"
 theme = "introduction"
