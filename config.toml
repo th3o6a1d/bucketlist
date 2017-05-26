@@ -42,7 +42,7 @@ showallposts    = false # Set 'true' to list all posts on home page, or set 'fal
 showlatest      = true # Show latest blog post summary
 sharebuttons    = false # On post pages, show share this social buttons
 showprojects    = true # Show Projects section on home page
-extracssfiles   = ["css/main.css"]
+extracssfiles   = ["/css/main.css"]
 
 # Social icons appear in introduction and contact section. Add as many more as you like.
 # Find icon names here: http://fontawesome.io/cheatsheet/
