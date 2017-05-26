@@ -3,7 +3,7 @@
     HUGO_VERSION = "0.21"
 
 [build]
-  base    = "site"
+  base    = ""
   publish = "public"
   command = "hugo"
 
