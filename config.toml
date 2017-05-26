@@ -1,7 +1,7 @@
 baseurl = "http://bucketlist.netlify.com/"
 languageCode = "en-us"
 title = "The Bucket List"
-theme = "introduction"
+theme = "hugo-theme-introduction"
 enforce_ssl         = "bucketlist.netlify.com"
 builddrafts         = false
 canonifyurls        = true
