@@ -11,6 +11,9 @@ publishdir          = "public"
 # disqusshortname   = "xxx" # Enable Disqus for comments
 # googleAnalytics   = "xxx"
 
+[blackfriday]
+  taskLists = true
+
 [permalinks]
 fixed = ":title/"
 blog  = "blog/:slug/"
@@ -19,11 +22,11 @@ blog  = "blog/:slug/"
 author        = "Jason Theobald" 
 opening       = "The bucket list"
 firstname     = "Jason" # First name shows in introduction on main page
-tagline       = "#lifegoals"
+tagline       = "#yolo"
 introheight   = "medium" # Input either 'medium' or 'large' or 'fullheight'
 theme         = "light" # Choose 'light' or 'dark'
 avatar        = "img/profile.png" # Path to image in static folder eg. img/avatar.png 
-localtime     = true # Show your current local time in contact section
+localtime     = false # Show your current local time in contact section
 timezone      = "America/Los_Angeles" # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 dateform      = "Jan 2, 2006"
 dateformfull  = "Mon Jan 2 2006 15:04:05 EST"
@@ -34,13 +37,12 @@ highlightjs   = true # Syntax highlighting
 lang          = "en"
 footertext    = "" # Text to show in footer (overrides default text)
 fadein        = false # Turn on/off the fade-in effect
-
 showblog        = true # Show Blog section on home page
 showallposts    = false # Set 'true' to list all posts on home page, or set 'false' to link to separate blog list page
 showlatest      = true # Show latest blog post summary
-sharebuttons    = true # On post pages, show share this social buttons
-
+sharebuttons    = false # On post pages, show share this social buttons
 showprojects    = true # Show Projects section on home page
+extracssfiles   = ["css/main.css"]
 
 # Social icons appear in introduction and contact section. Add as many more as you like.
 # Find icon names here: http://fontawesome.io/cheatsheet/
