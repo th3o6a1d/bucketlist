@@ -1,9 +1,9 @@
-[build]
-  base    = "site"
-  publish = "public"
-  command = "make"
-
 [context.production]
   [context.production.environment]
     HUGO_VERSION = "0.21"
+
+[build]
+  base    = "site"
+  publish = "public"
   command = "hugo"
+
