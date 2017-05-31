@@ -5,6 +5,7 @@ title = "The List"
 
 +++
 
+Updated on 5/31/17
 
 ### Make it happen
 - [ ] play in an acoustic folk duo or trio
@@ -12,6 +13,7 @@ title = "The List"
 - [ ] brew kombucha
 - [ ] brew beer
 - [ ] throw a mega party (>200 people)
+- [ ] write an Amazon Alexa skill
 
 ### Always learning
 - [ ] take a CSS class 
@@ -25,7 +27,7 @@ title = "The List"
 - [ ] learn to scuba
 - [ ] road bike to the rockaways
 - [ ] carb-free for 2 wks
-- [ ] vegetarian for 2 wks
+- [ ] vegetarian for 2 wks (in progress, on day 3)
 - [ ] get a 6-pack
 
 
