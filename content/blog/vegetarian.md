@@ -30,6 +30,6 @@ Strategy:
 
 How do I feel?
 
-Besides a little hungrier? Not bad at all. But not significantly different. Don't think I lost much weight or gained much lean muscle mass. Two weeks is probably too short of a time period, but 
+Besides a little hungrier? Not bad at all. But not significantly different. Don't think I lost much weight or gained much lean muscle mass.
 
 Next up...Vegan for 2 weeks. 
