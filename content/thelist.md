@@ -27,7 +27,7 @@ Updated on 6/11/17
 - [ ] learn to scuba
 - [ ] road bike to the rockaways
 - [ ] carb-free for 2 wks
-- [X] [vegetarian for 2 wks](/going-vegetarian-for-two-weeks/) (completed 6/10/17)
+- [X] [vegetarian for 2 wks](/blog/going-vegetarian-for-two-weeks/) (completed 6/10/17)
 - [ ] vegan for 2 wks
 - [ ] get a 6-pack
 
