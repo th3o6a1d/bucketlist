@@ -9,7 +9,7 @@ I'm not a particularly "body-conscious" eater. Nor do I have a problem with eati
 
 Here's what I've been eating over the course of the past two weeks:
 
-Strategy: 
+### Strategy: 
 
 - Trader Joe's veggie dumplings and masala burgers
 
@@ -28,7 +28,7 @@ Strategy:
 - Dr. Daniel's vegetarian dishes -- I have an attending who makes Indian food for the residents at work. She recently gave me a bag of brown basmati rice and literally made me order a rice cooker from Amazon. 
 
 
-How do I feel?
+### How do I feel?
 
 Besides a little hungrier? Not bad at all. But not significantly different. Don't think I lost much weight or gained much lean muscle mass.
 

@@ -14,6 +14,8 @@ Updated on 6/11/17
 - [ ] brew beer
 - [ ] throw a mega party (>200 people)
 - [ ] write an Amazon Alexa skill
+- [ ] start an e-commerce business
+
 
 ### Always learning
 - [ ] take a CSS class 
