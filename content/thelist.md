@@ -5,7 +5,7 @@ title = "The List"
 
 +++
 
-Updated on 5/31/17
+Updated on 6/11/17
 
 ### Make it happen
 - [ ] play in an acoustic folk duo or trio
@@ -27,7 +27,8 @@ Updated on 5/31/17
 - [ ] learn to scuba
 - [ ] road bike to the rockaways
 - [ ] carb-free for 2 wks
-- [ ] vegetarian for 2 wks (in progress, on day 3)
+- [X] [vegetarian for 2 wks](/going-vegetarian-for-two-weeks/) (completed 6/10/17)
+- [ ] vegan for 2 wks
 - [ ] get a 6-pack
 
 

@@ -1,7 +1,7 @@
 +++
 date = "2017-05-31T16:56:44-04:00"
 title = "Going Vegetarian for 2 Weeks"
-draft = true
+draft = false
 
 +++
 
@@ -21,9 +21,15 @@ Strategy:
 
 - Bananas
 
+- Veggie pizza
+
+- Hard boiled eggs. Breakfast burritos with no sausage. 
+
+- Dr. Daniel's vegetarian dishes -- I have an attending who makes Indian food for the residents at work. She recently gave me a bag of brown basmati rice and literally made me order a rice cooker from Amazon. 
+
 
 How do I feel?
 
-Besides a little hungrier? Not bad at all. But not significantly different. 
+Besides a little hungrier? Not bad at all. But not significantly different. Don't think I lost much weight or gained much lean muscle mass. Two weeks is probably too short of a time period, but 
 
 Next up...Vegan for 2 weeks. 

@@ -8,5 +8,3 @@ The origins of the phrase ["kicking the bucket"](https://en.wikipedia.org/wiki/K
 
 **But before I kick the bucket, I plan on kicking some serious ass.** 
 
-To all those living this short, fragile life to the fullest, may you accomplish your goals and live richly. 
-
