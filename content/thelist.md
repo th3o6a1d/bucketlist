@@ -16,7 +16,7 @@ Updated on 6/11/17
 - [ ] write an Amazon Alexa skill
 - [ ] start an e-commerce business
 
-
+  
 ### Always learning
 - [ ] take a CSS class 
 - [ ] take another machine learning class

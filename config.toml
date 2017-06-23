@@ -11,6 +11,11 @@ publishdir          = "public"
 # disqusshortname   = "xxx" # Enable Disqus for comments
 # googleAnalytics   = "xxx"
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
 [blackfriday]
   taskLists = true
 
@@ -20,7 +25,7 @@ blog  = "blog/:slug/"
 
 [params]
 author        = "Jason Theobald" 
-opening       = "The bucket list"
+opening       = "A life in code"
 firstname     = "Jason" # First name shows in introduction on main page
 tagline       = "#yolo"
 introheight   = "medium" # Input either 'medium' or 'large' or 'fullheight'

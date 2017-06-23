@@ -2,6 +2,8 @@
 date = "2017-05-31T16:56:44-04:00"
 title = "Going Vegetarian for Two Weeks"
 draft = false
+tags = ["bucket list"]
+
 
 +++
 
