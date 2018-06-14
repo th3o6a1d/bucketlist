@@ -25,7 +25,7 @@ blog  = "blog/:slug/"
 
 [params]
 author        = "Jason Theobald" 
-opening       = "A life in code"
+opening       = "The Bucket List"
 firstname     = "Jason" # First name shows in introduction on main page
 tagline       = "#yolo"
 introheight   = "medium" # Input either 'medium' or 'large' or 'fullheight'

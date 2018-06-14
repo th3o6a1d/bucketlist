@@ -13,8 +13,8 @@ Updated on 6/11/17
 - [ ] brew kombucha
 - [ ] brew beer
 - [ ] throw a mega party (>200 people)
-- [ ] write an Amazon Alexa skill
-- [ ] start an e-commerce business
+- [X] write an Amazon Alexa skill
+- [X] start an e-commerce business (fail! matchaheaven.com)
 
   
 ### Always learning
@@ -25,9 +25,9 @@ Updated on 6/11/17
 ### Staying active
 - [ ] run a half marathon
 - [ ] run a full (NYC) marathon
-- [ ] learn to kitesurf
+- [ ] learn to kitesurf (scheduled)
 - [ ] learn to scuba
-- [ ] road bike to the rockaways
+- [X] road bike to the rockaways
 - [ ] carb-free for 2 wks
 - [X] [vegetarian for 2 wks](/blog/going-vegetarian-for-two-weeks/) (completed 6/10/17)
 - [ ] vegan for 2 wks
