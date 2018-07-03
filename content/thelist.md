@@ -25,7 +25,7 @@ Updated on 6/11/17
 ### Staying active
 - [ ] run a half marathon
 - [ ] run a full (NYC) marathon
-- [ ] learn to kitesurf (scheduled)
+- [X] learn to kitesurf 
 - [ ] learn to scuba
 - [X] road bike to the rockaways
 - [ ] carb-free for 2 wks
