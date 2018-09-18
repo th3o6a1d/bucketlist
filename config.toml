@@ -1,4 +1,4 @@
-baseurl = "http://bucketlist.netlify.com/"
+baseurl = "https://bucketlist.netlify.com/"
 languageCode = "en-us"
 title = "The Bucket List"
 theme = "hugo-theme-introduction"
@@ -50,7 +50,7 @@ showabout     = false # Show Projects section on home page
 extracssfiles = ["/css/main.css"]
 
 # Social icons appear in introduction and contact section. Add as many more as you like.
-# Find icon names here: http://fontawesome.io/cheatsheet/
+# Find icon names here: https://fontawesome.io/cheatsheet/
 
 #[[params.social]]
 #url = "https://twitter.com/"
